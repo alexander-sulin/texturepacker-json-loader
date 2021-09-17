@@ -1,0 +1,1 @@
+# texturepacker-json-loader
